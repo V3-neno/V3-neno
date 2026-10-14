@@ -4,23 +4,30 @@ import re
 from pathlib import Path
 
 QUOTES = [
-    ("Deep into that darkness peering, long I stood there, wondering, fearing, doubting, "
-     "dreaming dreams no mortal ever dared to dream before.", "Edgar Allan Poe, *The Raven*"),
-    ("All that we see or seem is but a dream within a dream.", "Edgar Allan Poe, *A Dream Within a Dream*"),
-    ("The boundaries which divide Life from Death are at best shadowy and vague.",
-     "Edgar Allan Poe, *The Premature Burial*"),
-    ("I became insane, with long intervals of horrible sanity.", "Edgar Allan Poe"),
-    ("Beware; for I am fearless, and therefore powerful.", "Mary Shelley, *Frankenstein*"),
-    ("Nothing is so painful to the human mind as a great and sudden change.", "Mary Shelley, *Frankenstein*"),
-    ("Listen to them, the children of the night. What music they make!", "Bram Stoker, *Dracula*"),
-    ("We learn from failure, not from success!", "Bram Stoker, *Dracula*"),
-    ("The only way to get rid of a temptation is to yield to it.", "Oscar Wilde, *The Picture of Dorian Gray*"),
-    ("Hell is empty and all the devils are here.", "William Shakespeare, *The Tempest*"),
-    ("The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind "
-     "of fear is fear of the unknown.", "H. P. Lovecraft"),
-    ("That is not dead which can eternal lie, and with strange aeons even death may die.", "H. P. Lovecraft"),
+    ("Every bug you bury rises again in production.", "The Crypt-Keeper's Proverbs"),
     ("It works on my machine. The machine is haunted.", "the console, at 3 a.m."),
-    ("Every bug you bury rises again in production.", "an old crypt-keeper's proverb"),
+    ("Abandon all hope, ye who push to main on a Friday.", "inscription above the server room door"),
+    ("I did not choose the night shift. The pager chose me.", "Confessions of an On-Call Soul"),
+    ("Some code is not written. It is summoned.", "The Necronomicon of Legacy Systems"),
+    ("Beware the function with no tests, for it fears nothing and answers to no one.",
+     "The Book of Unit Rites"),
+    ("In the deepest dungeon lies a COBOL script, and it still runs payroll.", "tales whispered in the data center"),
+    ("I commented out the darkness. It uncommented itself.", "commit message, author unknown"),
+    ("Null is not nothing. Null is something waiting.", "The Gospel of the Unhandled Exception"),
+    ("We do not delete the old services. We merely stop speaking their names.",
+     "The Rite of Deprecation"),
+    ("The logs remember what the developers chose to forget.", "The Archivist of /var/log"),
+    ("To merge without review is to open the coffin and invite what sleeps within.",
+     "The Pull Request Liturgy"),
+    ("There is no cloud. There is only someone else's crypt.", "The Heretic Sysadmin"),
+    ("A memory leak is merely a ghost that refuses to be collected.", "Treatise on the Garbage Collector"),
+    ("Undefined is not a value. It is an omen.", "The JavaScript Grimoire"),
+    ("Do not fear the stack trace. Fear the silence where a stack trace should be.",
+     "The Debugger's Lament"),
+    ("The cache never forgets, and it never forgives.", "The Invalidation Elegy"),
+    ("At midnight the cron jobs wake, and no one knows who wrote them.", "Hymns of the Scheduler"),
+    ("Each semicolon you forget is a candle snuffed in the dark.", "The Compiler's Vigil"),
+    ("I have seen the regex that matches everything. I have not slept since.", "a survivor's journal"),
 ]
 
 readme = Path("README.md")

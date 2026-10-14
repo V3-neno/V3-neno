@@ -25,9 +25,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Deep into that darkness peering, long I stood there, wondering, fearing, doubting, dreaming dreams no mortal ever dared to dream before."*
+> *"Every bug you bury rises again in production."*
 >
-> — Edgar Allan Poe, *The Raven*
+> — The Crypt-Keeper's Proverbs
 <!--QUOTE:END-->
 
 </div>
