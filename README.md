@@ -4,17 +4,17 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:3b0a0a,100:8b0000&height=230&section=header&text=V3-neno&fontColor=d4c5a9&fontSize=72&fontAlignY=38&animation=twinkling&desc=~%20dwelling%20in%20the%20shadows%20of%20the%20code%20~&descSize=18&descAlignY=60" width="100%" alt="V3-neno banner" />
 
 ```
-          |
-          |
-          |
-   \  \   |   /  /
-    \  \ .-. /  /
- __  \_ (o o) _/  __
-   \___(  V  )___/
-  ___ ( ::::: ) ___
- /   _/ ::::: \_   \
+          |          
+          |          
+          |          
+   \  \   |   /  /   
+    \  \ .-. /  /    
+ __  \_ (o o) _/  __ 
+   \___(  V  )___/   
+  ___ ( ::::: ) ___  
+ /   _/ ::::: \_   \ 
 /   /  \:::::/  \   \
-        `---'
+        `---'        
 ```
 
 <img src="https://komarev.com/ghpvc/?username=V3-neno&label=souls%20that%20wandered%20in&color=8b0000&style=flat-square" alt="visitor count" />
