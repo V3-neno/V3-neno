@@ -20,7 +20,7 @@
    \)           (/   
 ```
 
-<img src="https://komarev.com/ghpvc/?username=V3-neno&label=souls%20that%20wandered%20in&color=8b0000&style=flat-square" alt="visitor count" />
+<img src="https://hits.sh/github.com/V3-neno.svg?style=flat-square&label=souls%20that%20wandered%20in&color=8b0000&labelColor=1a1414" alt="visitor count" />
 
 </div>
 
