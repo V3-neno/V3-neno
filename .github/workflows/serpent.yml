@@ -1,0 +1,29 @@
+name: Feed the serpent
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  serpent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/serpent-dark.svg?color_snake=#b30000&color_dots=#1a1414,#3b0a0a,#5c0f14,#8b0000,#c41e1e
+            dist/serpent-light.svg?color_snake=#6b0f1a&color_dots=#e6dcc4,#d9b8a3,#b5736b,#8b2e2e,#6b0f1a
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
