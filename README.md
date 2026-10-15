@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Every bug you bury rises again in production."*
+> *"Abandon all hope, ye who push to main on a Friday."*
 >
-> — The Crypt-Keeper's Proverbs
+> — inscription above the server room door
 <!--QUOTE:END-->
 
 </div>
