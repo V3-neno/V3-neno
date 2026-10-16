@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Abandon all hope, ye who push to main on a Friday."*
+> *"Beware the function with no tests, for it fears nothing and answers to no one."*
 >
-> — inscription above the server room door
+> — The Book of Unit Rites
 <!--QUOTE:END-->
 
 </div>
