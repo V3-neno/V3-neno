@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"To merge without review is to open the coffin and invite what sleeps within."*
+> *"I commented out the darkness. It uncommented itself."*
 >
-> — The Pull Request Liturgy
+> — commit message, author unknown
 <!--QUOTE:END-->
 
 </div>
