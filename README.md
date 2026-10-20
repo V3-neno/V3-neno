@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"I have seen the regex that matches everything. I have not slept since."*
+> *"Every bug you bury rises again in production."*
 >
-> — a survivor's journal
+> — The Crypt-Keeper's Proverbs
 <!--QUOTE:END-->
 
 </div>
