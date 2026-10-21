@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Every bug you bury rises again in production."*
+> *"I did not choose the night shift. The pager chose me."*
 >
-> — The Crypt-Keeper's Proverbs
+> — Confessions of an On-Call Soul
 <!--QUOTE:END-->
 
 </div>
