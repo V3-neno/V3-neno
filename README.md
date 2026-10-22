@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"I did not choose the night shift. The pager chose me."*
+> *"Abandon all hope, ye who push to main on a Friday."*
 >
-> — Confessions of an On-Call Soul
+> — inscription above the server room door
 <!--QUOTE:END-->
 
 </div>
