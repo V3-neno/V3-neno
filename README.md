@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Abandon all hope, ye who push to main on a Friday."*
+> *"Undefined is not a value. It is an omen."*
 >
-> — inscription above the server room door
+> — The JavaScript Grimoire
 <!--QUOTE:END-->
 
 </div>
