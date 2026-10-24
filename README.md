@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Undefined is not a value. It is an omen."*
+> *"In the deepest dungeon lies a COBOL script, and it still runs payroll."*
 >
-> — The JavaScript Grimoire
+> — tales whispered in the data center
 <!--QUOTE:END-->
 
 </div>
