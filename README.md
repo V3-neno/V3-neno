@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"In the deepest dungeon lies a COBOL script, and it still runs payroll."*
+> *"I did not choose the night shift. The pager chose me."*
 >
-> — tales whispered in the data center
+> — Confessions of an On-Call Soul
 <!--QUOTE:END-->
 
 </div>
