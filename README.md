@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"The logs remember what the developers chose to forget."*
+> *"Each semicolon you forget is a candle snuffed in the dark."*
 >
-> — The Archivist of /var/log
+> — The Compiler's Vigil
 <!--QUOTE:END-->
 
 </div>
