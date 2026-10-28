@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Each semicolon you forget is a candle snuffed in the dark."*
+> *"There is no cloud. There is only someone else's crypt."*
 >
-> — The Compiler's Vigil
+> — The Heretic Sysadmin
 <!--QUOTE:END-->
 
 </div>
