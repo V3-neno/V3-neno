@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"There is no cloud. There is only someone else's crypt."*
+> *"In the deepest dungeon lies a COBOL script, and it still runs payroll."*
 >
-> — The Heretic Sysadmin
+> — tales whispered in the data center
 <!--QUOTE:END-->
 
 </div>
