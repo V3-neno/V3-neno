@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"In the deepest dungeon lies a COBOL script, and it still runs payroll."*
+> *"We do not delete the old services. We merely stop speaking their names."*
 >
-> — tales whispered in the data center
+> — The Rite of Deprecation
 <!--QUOTE:END-->
 
 </div>
