@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"It works on my machine. The machine is haunted."*
+> *"Undefined is not a value. It is an omen."*
 >
-> — the console, at 3 a.m.
+> — The JavaScript Grimoire
 <!--QUOTE:END-->
 
 </div>
