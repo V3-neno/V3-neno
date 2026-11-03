@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"In the deepest dungeon lies a COBOL script, and it still runs payroll."*
+> *"Do not fear the stack trace. Fear the silence where a stack trace should be."*
 >
-> — tales whispered in the data center
+> — The Debugger's Lament
 <!--QUOTE:END-->
 
 </div>
