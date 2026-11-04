@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Do not fear the stack trace. Fear the silence where a stack trace should be."*
+> *"Each semicolon you forget is a candle snuffed in the dark."*
 >
-> — The Debugger's Lament
+> — The Compiler's Vigil
 <!--QUOTE:END-->
 
 </div>
