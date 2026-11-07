@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"The logs remember what the developers chose to forget."*
+> *"We do not delete the old services. We merely stop speaking their names."*
 >
-> — The Archivist of /var/log
+> — The Rite of Deprecation
 <!--QUOTE:END-->
 
 </div>
