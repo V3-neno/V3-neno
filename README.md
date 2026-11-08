@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"We do not delete the old services. We merely stop speaking their names."*
+> *"It works on my machine. The machine is haunted."*
 >
-> — The Rite of Deprecation
+> — the console, at 3 a.m.
 <!--QUOTE:END-->
 
 </div>
