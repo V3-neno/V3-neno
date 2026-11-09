@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"It works on my machine. The machine is haunted."*
+> *"In the deepest dungeon lies a COBOL script, and it still runs payroll."*
 >
-> — the console, at 3 a.m.
+> — tales whispered in the data center
 <!--QUOTE:END-->
 
 </div>
