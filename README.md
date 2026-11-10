@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"In the deepest dungeon lies a COBOL script, and it still runs payroll."*
+> *"Every bug you bury rises again in production."*
 >
-> — tales whispered in the data center
+> — The Crypt-Keeper's Proverbs
 <!--QUOTE:END-->
 
 </div>
