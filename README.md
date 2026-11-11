@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Every bug you bury rises again in production."*
+> *"Beware the function with no tests, for it fears nothing and answers to no one."*
 >
-> — The Crypt-Keeper's Proverbs
+> — The Book of Unit Rites
 <!--QUOTE:END-->
 
 </div>
