@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Beware the function with no tests, for it fears nothing and answers to no one."*
+> *"To merge without review is to open the coffin and invite what sleeps within."*
 >
-> — The Book of Unit Rites
+> — The Pull Request Liturgy
 <!--QUOTE:END-->
 
 </div>
