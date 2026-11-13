@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"To merge without review is to open the coffin and invite what sleeps within."*
+> *"Some code is not written. It is summoned."*
 >
-> — The Pull Request Liturgy
+> — The Necronomicon of Legacy Systems
 <!--QUOTE:END-->
 
 </div>
