@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Some code is not written. It is summoned."*
+> *"I have seen the regex that matches everything. I have not slept since."*
 >
-> — The Necronomicon of Legacy Systems
+> — a survivor's journal
 <!--QUOTE:END-->
 
 </div>
