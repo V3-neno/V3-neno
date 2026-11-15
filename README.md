@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"I have seen the regex that matches everything. I have not slept since."*
+> *"Do not fear the stack trace. Fear the silence where a stack trace should be."*
 >
-> — a survivor's journal
+> — The Debugger's Lament
 <!--QUOTE:END-->
 
 </div>
