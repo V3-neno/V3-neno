@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Do not fear the stack trace. Fear the silence where a stack trace should be."*
+> *"It works on my machine. The machine is haunted."*
 >
-> — The Debugger's Lament
+> — the console, at 3 a.m.
 <!--QUOTE:END-->
 
 </div>
