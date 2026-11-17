@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"It works on my machine. The machine is haunted."*
+> *"I commented out the darkness. It uncommented itself."*
 >
-> — the console, at 3 a.m.
+> — commit message, author unknown
 <!--QUOTE:END-->
 
 </div>
