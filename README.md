@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"To merge without review is to open the coffin and invite what sleeps within."*
+> *"Each semicolon you forget is a candle snuffed in the dark."*
 >
-> — The Pull Request Liturgy
+> — The Compiler's Vigil
 <!--QUOTE:END-->
 
 </div>
