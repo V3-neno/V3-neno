@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Each semicolon you forget is a candle snuffed in the dark."*
+> *"I did not choose the night shift. The pager chose me."*
 >
-> — The Compiler's Vigil
+> — Confessions of an On-Call Soul
 <!--QUOTE:END-->
 
 </div>
