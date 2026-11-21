@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"I did not choose the night shift. The pager chose me."*
+> *"The logs remember what the developers chose to forget."*
 >
-> — Confessions of an On-Call Soul
+> — The Archivist of /var/log
 <!--QUOTE:END-->
 
 </div>
