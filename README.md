@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"The logs remember what the developers chose to forget."*
+> *"At midnight the cron jobs wake, and no one knows who wrote them."*
 >
-> — The Archivist of /var/log
+> — Hymns of the Scheduler
 <!--QUOTE:END-->
 
 </div>
