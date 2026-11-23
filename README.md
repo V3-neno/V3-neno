@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"At midnight the cron jobs wake, and no one knows who wrote them."*
+> *"Do not fear the stack trace. Fear the silence where a stack trace should be."*
 >
-> — Hymns of the Scheduler
+> — The Debugger's Lament
 <!--QUOTE:END-->
 
 </div>
