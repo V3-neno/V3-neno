@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Do not fear the stack trace. Fear the silence where a stack trace should be."*
+> *"I commented out the darkness. It uncommented itself."*
 >
-> — The Debugger's Lament
+> — commit message, author unknown
 <!--QUOTE:END-->
 
 </div>
