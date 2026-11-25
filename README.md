@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"I commented out the darkness. It uncommented itself."*
+> *"I have seen the regex that matches everything. I have not slept since."*
 >
-> — commit message, author unknown
+> — a survivor's journal
 <!--QUOTE:END-->
 
 </div>
