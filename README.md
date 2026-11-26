@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"I have seen the regex that matches everything. I have not slept since."*
+> *"A memory leak is merely a ghost that refuses to be collected."*
 >
-> — a survivor's journal
+> — Treatise on the Garbage Collector
 <!--QUOTE:END-->
 
 </div>
