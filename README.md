@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"A memory leak is merely a ghost that refuses to be collected."*
+> *"Some code is not written. It is summoned."*
 >
-> — Treatise on the Garbage Collector
+> — The Necronomicon of Legacy Systems
 <!--QUOTE:END-->
 
 </div>
