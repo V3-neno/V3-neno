@@ -32,9 +32,9 @@
 ### 🕯️ Whispers from the crypt
 
 <!--QUOTE:START-->
-> *"Some code is not written. It is summoned."*
+> *"In the deepest dungeon lies a COBOL script, and it still runs payroll."*
 >
-> — The Necronomicon of Legacy Systems
+> — tales whispered in the data center
 <!--QUOTE:END-->
 
 </div>
